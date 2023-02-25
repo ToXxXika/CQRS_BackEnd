@@ -1,4 +1,4 @@
-package com.example.htimesheet.Services;
+package com.example.htimesheet.Services.QueryServices;
 
 import com.example.htimesheet.Models.Tache;
 

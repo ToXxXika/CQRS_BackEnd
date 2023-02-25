@@ -2,7 +2,7 @@ package com.example.htimesheet.Controllers.CommandController;
 
 
 import com.example.htimesheet.Models.Timesheet;
-import com.example.htimesheet.Services.Implementation.TimesheetCommandImpl;
+import com.example.htimesheet.Services.Implementation.CommandImpl.TimesheetCommandImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.data.repository.query.Param;

@@ -2,7 +2,7 @@ package com.example.htimesheet.Controllers.QueryController;
 
 
 import com.example.htimesheet.Models.Timesheet;
-import com.example.htimesheet.Services.Implementation.TimesheetQueryImpl;
+import com.example.htimesheet.Services.Implementation.QueryImpl.TimesheetQueryImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
